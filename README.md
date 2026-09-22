@@ -4,13 +4,14 @@
 This Python script simulates a day of logistics operations for FastBox, a fictional delivery company. It parses input data, assigns packages to the nearest delivery agents based on Euclidean distance, simulates the delivery routes, and generates an efficiency report to identify the best-performing agent.
 
 ## Project Structure
-``text
-fastbox_delivery/ 
-├── main.py              # Main Python script containing all logic
-├── data.json            # Input data (warehouses, agents, packages)
-├── report.json          # Generated JSON output report
-── top_performer.csv    # CSV export of the best agent (Bonus Feature)
-└── README.md            # Project documentation
+    ```text
+    fastbox_delivery/ 
+
+    ├── main.py              # Main Python script containing all logic
+    ├── data.json            # Input data (warehouses, agents, packages)
+    ├── report.json          # Generated JSON output report
+    ── top_performer.csv    # CSV export of the best agent (Bonus Feature)
+    └── README.md            # Project documentation
 
 ##Assumptions & Engineering Decisions
 
