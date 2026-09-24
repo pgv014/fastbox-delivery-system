@@ -95,4 +95,4 @@ Developed as part of the Python Developer hiring assessment for Nexgensis Techno
 
 ##License
 
-This project is created for assessment purposes.
+This project is created for assessment purposes
