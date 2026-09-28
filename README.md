@@ -87,7 +87,7 @@ Different JSON inputs produce valid outputs.
 Modular Design: Functions are separated by responsibility (parsing, distance calculation, assignment, simulation)
 Documentation: All functions include docstrings explaining their purpose
 Comments: Key logic sections are commented for clarity
-No External Dependencies: Uses only Python standard library modules
+No External Dependencies: Uses only Python standard library modules.
 
 ##Author
 
